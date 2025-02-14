@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Nate Shune. I am a current student at Virginia Tech in Aerospace Engineering. I am completing my bachelor's degree in May 2025 and am planning on completing my master's in the 2026-2027 timeframe.
+
+I am specializing in Multi-disciplinary Aircraft Optimization as part of the IDOPT lab at Virginia Tech.
+
+- 🔭 I’m currently working on my thesis project concerning Electric E/VTOL aircraft optimization!
+- 🌱 I’m currently learning various optimization frameworks, C++, object-oriented programming.
+- 📫 How to reach me: Reach out via LinkedIn @ Nathan Shune
+- 😄 Pronouns: He/Him
 <!--
 **nshune/nshune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
