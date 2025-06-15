@@ -4,7 +4,7 @@ My name is Nate Shune. I am a current masters student at Virginia Tech in Aerosp
 
 I am specializing in Multi-disciplinary Aircraft Optimization as part of the IDOPT lab at Virginia Tech.
 
-- 🔭 I’m currently working on my thesis project concerning Electric E/VTOL aircraft optimization!
+- 🔭 I’m currently working on my thesis project on MDAO!
 - 🌱 I’m currently learning various optimization frameworks, C++, object-oriented programming.
 - 📫 How to reach me: Reach out via LinkedIn @ Nathan Shune
 - 😄 Pronouns: He/Him
