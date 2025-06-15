@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Nate Shune. I am a current student at Virginia Tech in Aerospace Engineering. I am completing my bachelor's degree in May 2025 and am planning on completing my master's in the 2026-2027 timeframe.
+My name is Nate Shune. I am a current masters student at Virginia Tech in Aerospace Engineering. I completed my B.S in Aerospace Engineering in May 2025 and am planning on completing my master's in the 2026-2027 timeframe.
 
 I am specializing in Multi-disciplinary Aircraft Optimization as part of the IDOPT lab at Virginia Tech.
 
